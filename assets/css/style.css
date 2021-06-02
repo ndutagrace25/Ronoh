@@ -64,6 +64,11 @@ body {
     background-image: url('../img/hotspot-banner.png');
 }
 
+.vitual {
+    border-radius: 30%;
+    padding: 5px;
+}
+
 .wifiber-banner {
     background-image: url('../img/wifiber-banner.png');
 }
@@ -261,7 +266,7 @@ h1#hero-text {
 }
 
 .w100 {
-    max-width: 60px !important;
+    max-width: 100px !important;
 }
 
 a>.text-center>img {
