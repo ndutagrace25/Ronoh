@@ -60,6 +60,10 @@ body {
     background-image: url('../img/contact-banner.png');
 }
 
+.partner-banner {
+    background-image: url('../img/partners.jpg');
+}
+
 .hotspot-banner {
     background-image: url('../img/hotspot-banner.png');
 }
