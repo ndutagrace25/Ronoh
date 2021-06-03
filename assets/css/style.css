@@ -306,6 +306,9 @@ a > .text-center p {
 .about-text {
     text-align: justify;
 }
+.about-container {
+  width: 100vw !important;
+}
 
 a > .text-center p,
 a > .text-center h5 {
