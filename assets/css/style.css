@@ -275,6 +275,9 @@ h1#hero-text {
 .w100 {
   max-width: 100px !important;
 }
+.contact-image {
+  max-width: 70px !important;
+}
 
 a > .text-center > img {
   transition: 0.8s;
